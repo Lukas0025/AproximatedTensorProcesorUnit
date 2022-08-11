@@ -1,2 +1,2 @@
 # AproximatedTensorProcesorUnit
-Minimalistic Tensor Procesor Unit writed in verilog for FPGAs and ASICs
+Minimalistic Tensor Procesor Unit (TPU) writed in verilog for FPGAs and ASICs
