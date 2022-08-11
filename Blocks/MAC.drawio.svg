@@ -1,0 +1,148 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="442px" height="502px" viewBox="-0.5 -0.5 442 502" content="&lt;mxfile&gt;&lt;diagram id=&quot;V1O2Ev1uNrH85RXx_EPU&quot; name=&quot;Page-1&quot;&gt;7Vltc9soEP41+ngeSegtH2O36d1Mb5q5pHN3H7GELSYy6BCO7f76A4EkEGpe5bTTSb4ElgUt++zusyEeWO2Onxisyz9pgSov9IujBz54YRj4aSR+SclJSdLUV4Itw4VWGgQ3+BvqdmrpHheosRQ5pRXHtS3MKSEo55YMMkYPttqGVvZXa7hFjuAmh5Ur/RsXvFTSLEwH+e8Ib8vuy0FyoVZ2sFPWN2lKWNCDIQIfPbBilHI12h1XqJLO6/yi9l19Z7U3jCHCn7IhVBvuYbXXd7v64+qLto2fugv3ZvoeWBawKVGhJ7DCWyLGufggYkJQ8l0l5oEYNpzRu95DraSEtTxyd9zKyFgwXi3gWujBnC/ECZiLiFgK2DjERB7X7sppVcG6wevWHPnVO0ykAQ36by93wUqaxeDhGpNGq1RoIz0AxJBpKIR3l2vKOd1pHU5rPXL9pl15jxhHR0Ok/fgJ0R3i7CRU9GqPqQ7qINPzgxEiWlSa0dHtgzoqt/3RA3BioLGbxjF6x3EuHEH2A3FMHchQIUqPnhJKkA0NOmL+j767HP9rjD/IC0X97GQsXSOGhW0tMq2MCDvbcxZxN5VHBQvfzzpBe16vPZwnZ+6BxaUstIPRQnKF5b0fxqmhe5brqye6tEO2RdyKc+mUB7FkqIIc39v1egoYvfWaYmFIHwPRKJdBOsJW2aR3DfCKO8OToVZLheb53xmiRZ04xE5/xyeFU3becMq+H0/ngT88C/zPRS2M07OiBqK5Ycss2KLHy4BZBHyrAER2BcjevAQA8FMEAYjs1I2DeYMgcRjdWwHvwiWIZ3D6HETuP0TkOd2tMRFep2TM5cHA5V649MAlNhhdTKlJ6oOGovZhrlQuSV5Sac0OF4U0Qur9RdvmINUdgauj9iq1i6636NWUca1Mqfidgb2KNldJlVLQJsBGOEj/mdLmR1PDHJPtbWv8b4Eh+qxcIFsYVGAOBxcy1OBv5pzy1pGdsXO0Nv6IbsDTWptshs6mS1szoMPlezS/R/NLozkaNepR+nbRHIO5Kdpi6PA1DD1QssH2L2foEc8+StkdL7qc/QqKfjIus7dOdsc7Z+v0K+DyotYpHtFQko0eqUb6SfI6/blbs86TFpX90JeWnopWgljy6s4ko1ZGauuZxHo9GT24NATWt1S5VNkwruVGqQ/OVNovRoj7bmmPJkp7MsdTWvw4umIHrhuZmYcSc3Qj2FCuHARENqCwqdUD9AYfZQQsNyKNV7RqCdiTDZn86ZHvVnTaE/oZrlEfHA4wtVE49JZJ3jXmM4ATB5mdXmnmgBO72MQzVPf4hdW9G7c1WT1xTfLuGatv6lbf+K1Ysfv4eUJ6jnwf/zGdRovYCapg6tV1jozPHPd8+Xp7/fXWcZK4Dp+q2KO8NZNci5yqL52Dc1hd6oW+r59yP6N7UvQMMoPDx4/cceK6O5lwN3i+u8V0+H+WYtvhv4Lg4/8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="80" height="120" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="end" font-size="12px" transform="rotate(180,80,40)rotate(180,85,40)"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="end" font-size="12px" transform="rotate(180,80,40)rotate(180,85,40)rotate(-180,85,40)rotate(-180,80,40)rotate(180,80,80)rotate(180,85,80)"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 60px; margin-left: 40px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                FIFO
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="40" y="64" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    FIFO
+                </text>
+            </switch>
+        </g>
+        <rect x="160" y="0" width="80" height="120" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="end" font-size="12px" transform="rotate(180,240,40)rotate(180,245,40)"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="end" font-size="12px" transform="rotate(180,240,40)rotate(180,245,40)rotate(-180,245,40)rotate(-180,240,40)rotate(180,240,80)rotate(180,245,80)"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 60px; margin-left: 200px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                FIFO
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="200" y="64" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    FIFO
+                </text>
+            </switch>
+        </g>
+        <path d="M 160 190 L 190 190 Q 200 190 200 180 L 200 120.96" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 80 190 L 47 190 Q 37 190 37.23 180 L 38.62 120" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 120 230 L 120 320 Q 120 330 130 330 L 260 330" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="120" cy="190" rx="30" ry="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" transform="rotate(90,120,190)" pointer-events="all"/>
+        <path d="M 80 190 L 90 190 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,120,190)" pointer-events="all"/>
+        <path d="M 82 192 L 87 190 L 82 188 Z" fill="0" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,120,190)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" transform="rotate(90,120,190)">
+            <text x="94.5" y="194.5">
+                +
+            </text>
+        </g>
+        <path d="M 160 190 L 170 190 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,120,190)rotate(180,160,190)" pointer-events="all"/>
+        <path d="M 162 190 L 167 192 L 167 188 Z" fill="0" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,120,190)rotate(180,160,190)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="end" font-size="12px" transform="rotate(90,120,190)rotate(180,160,190)rotate(180,175,190)"/>
+        <path d="M 120 150 L 130 150 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,120,190)rotate(180,160,190)rotate(180,175,190)rotate(-180,175,190)rotate(-180,160,190)rotate(90,120,150)" pointer-events="all"/>
+        <path d="M 122 152 L 127 150 L 122 148 Z" fill="0" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,120,190)rotate(180,160,190)rotate(180,175,190)rotate(-180,175,190)rotate(-180,160,190)rotate(90,120,150)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" transform="rotate(90,120,190)rotate(180,160,190)rotate(180,175,190)rotate(-180,175,190)rotate(-180,160,190)rotate(90,120,150)rotate(270,140,150)">
+            <text x="136" y="154.5">
+                +
+            </text>
+        </g>
+        <path d="M 120 230 L 130 230 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,120,190)rotate(180,160,190)rotate(180,175,190)rotate(-180,175,190)rotate(-180,160,190)rotate(90,120,150)rotate(270,140,150)rotate(-270,140,150)rotate(-90,120,150)rotate(270,120,230)" pointer-events="all"/>
+        <path d="M 122 232 L 127 230 L 122 228 Z" fill="0" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,120,190)rotate(180,160,190)rotate(180,175,190)rotate(-180,175,190)rotate(-180,160,190)rotate(90,120,150)rotate(270,140,150)rotate(-270,140,150)rotate(-90,120,150)rotate(270,120,230)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" transform="rotate(90,120,190)rotate(180,160,190)rotate(180,175,190)rotate(-180,175,190)rotate(-180,160,190)rotate(90,120,150)rotate(270,140,150)rotate(-270,140,150)rotate(-90,120,150)rotate(270,120,230)rotate(90,140,230)">
+            <text x="136" y="234.5">
+                +
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="40px" transform="rotate(90,125,191)">
+            <text x="124.5" y="209.5">
+                ×
+            </text>
+        </g>
+        <ellipse cx="300" cy="330" rx="30" ry="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" transform="rotate(90,300,330)" pointer-events="all"/>
+        <path d="M 260 330 L 270 330 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,300,330)" pointer-events="all"/>
+        <path d="M 262 332 L 267 330 L 262 328 Z" fill="0" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,300,330)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" transform="rotate(90,300,330)">
+            <text x="274.5" y="334.5">
+                +
+            </text>
+        </g>
+        <path d="M 340 330 L 350 330 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,300,330)rotate(180,340,330)" pointer-events="all"/>
+        <path d="M 342 330 L 347 332 L 347 328 Z" fill="0" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,300,330)rotate(180,340,330)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="end" font-size="12px" transform="rotate(90,300,330)rotate(180,340,330)rotate(180,355,330)"/>
+        <path d="M 300 290 L 310 290 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,300,330)rotate(180,340,330)rotate(180,355,330)rotate(-180,355,330)rotate(-180,340,330)rotate(90,300,290)" pointer-events="all"/>
+        <path d="M 302 292 L 307 290 L 302 288 Z" fill="0" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,300,330)rotate(180,340,330)rotate(180,355,330)rotate(-180,355,330)rotate(-180,340,330)rotate(90,300,290)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" transform="rotate(90,300,330)rotate(180,340,330)rotate(180,355,330)rotate(-180,355,330)rotate(-180,340,330)rotate(90,300,290)rotate(270,320,290)">
+            <text x="316" y="294.5">
+                +
+            </text>
+        </g>
+        <path d="M 300 370 L 310 370 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,300,330)rotate(180,340,330)rotate(180,355,330)rotate(-180,355,330)rotate(-180,340,330)rotate(90,300,290)rotate(270,320,290)rotate(-270,320,290)rotate(-90,300,290)rotate(270,300,370)" pointer-events="all"/>
+        <path d="M 302 372 L 307 370 L 302 368 Z" fill="0" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,300,330)rotate(180,340,330)rotate(180,355,330)rotate(-180,355,330)rotate(-180,340,330)rotate(90,300,290)rotate(270,320,290)rotate(-270,320,290)rotate(-90,300,290)rotate(270,300,370)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" transform="rotate(90,300,330)rotate(180,340,330)rotate(180,355,330)rotate(-180,355,330)rotate(-180,340,330)rotate(90,300,290)rotate(270,320,290)rotate(-270,320,290)rotate(-90,300,290)rotate(270,300,370)rotate(90,320,370)">
+            <text x="316" y="374.5">
+                +
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="40px" transform="rotate(90,305,331)">
+            <text x="304.5" y="349.5">
+                +
+            </text>
+        </g>
+        <path d="M 300 430 L 300 370" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 280 470 L 280 490 Q 280 500 290 500 L 430 500 Q 440 500 440 490 L 440 340 Q 440 330 430 330 L 340 330" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="270" y="420" width="40" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" transform="rotate(90,290,450)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" transform="rotate(90,290,450)"/>
+        <path d="M 270 452.5 L 277.5 460 L 270 467.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,290,450)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" transform="rotate(90,290,450)"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="end" font-size="12px" transform="rotate(90,290,450)rotate(180,310,440)rotate(180,315,440)"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="end" font-size="12px" transform="rotate(90,290,450)rotate(180,310,440)rotate(180,315,440)rotate(-180,315,440)rotate(-180,310,440)rotate(180,310,460)rotate(180,315,460)"/>
+        <ellipse cx="300.5" cy="400.5" rx="2.5" ry="2.5" fill="#000000" stroke="none" pointer-events="all"/>
+        <path d="M 230 399.5 L 300 400" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="225" cy="399.5" rx="5" ry="5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="160" y="385" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 400px; margin-left: 161px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                OUTPUT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="190" y="404" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    OUTPUT
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
